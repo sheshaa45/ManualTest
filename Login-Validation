@@ -1,0 +1,6 @@
+Test Case 1: Blank username and password
+Steps:
+1. Open login page
+2. Leave fields blank
+3. Click login
+Expected: Show error message "Username and Password required"
